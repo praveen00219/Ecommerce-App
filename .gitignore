@@ -1,0 +1,52 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+
+# Cache and temporary files
+.cache/
+tmp/
+*.swp
+*.bak
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Testing
+coverage/
+*.lcov
+
+# Miscellaneous
+*.lock
+*.log
+*.gz
+
+# Ignore any additional files/directories here
